@@ -48,4 +48,4 @@ npm install
 npm run dev
 ```
 
-Then access to http://localhost:5137/
+Then access to http://localhost:5173/cesium-kakegawa/
